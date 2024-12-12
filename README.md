@@ -12,7 +12,7 @@ A empresa PlanEnergy é especializada em estratégias de energia renovável e de
   
 Este repositório contém o Projeto de Software do aplicativo web para Desktop DataControl, com a *Lean Inception* detalhada no [Miro](https://miro.com/) e o planejamento dos passos no [Jira](https://www.atlassian.com/software/jira?referer=jira.com).  Este repositório contém:
 * Link para a *lean inception* detalhada no Miro: [Lean Inception no Miro](https://miro.com/app/board/uXjVL9NOoFE=/?share_link_id=749814013207)
-* O diretório (**wireframe-datacontrol**) com as imagens dos *wireframes* do protótipo de interface do aplicativo **DataControl**
+* O diretório (**wireframe-datacontrol**) com as imagens dos *wireframes* do protótipo de interface do aplicativo **DataControl** feitas no [Figma](https://www.figma.com/)
 * O arquivo PDF do *backlog* do produto (**product-backlog-datacontrol.pdf**)
 * O arquivo PDF da primeira *Sprint* (**sprint1-backlog-datacontrol.pdf**)
 * O arquivo PDF das demais *Sprints* (**outras-sprints-backlog-datacontrol.pdf**)
