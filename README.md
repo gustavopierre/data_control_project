@@ -11,11 +11,12 @@ A empresa PlanEnergy é especializada em estratégias de energia renovável e de
 * Julia – Marketing
   
 Este repositório contém o Projeto de Software do aplicativo web para Desktop DataControl, com a *Lean Inception* detalhada no [Miro](https://miro.com/) e o planejamento dos passos no [Jira](https://www.atlassian.com/software/jira?referer=jira.com).  Este repositório contém:
-* Link para a *lean inception* detalhada no Miro: [Lean Inception no Miro](https://miro.com/app/board/uXjVL9NOoFE=/?share_link_id=749814013207)
-* O diretório (**wireframe-datacontrol**) com as imagens dos *wireframes* do protótipo de interface do aplicativo **DataControl** feitas no [Figma](https://www.figma.com/)
-* O arquivo PDF do *backlog* do produto (**product-backlog-datacontrol.pdf**)
-* O arquivo PDF da primeira *Sprint* (**sprint1-backlog-datacontrol.pdf**)
-* O arquivo PDF das demais *Sprints* (**outras-sprints-backlog-datacontrol.pdf**)
-* E este arquivo **README.md**
+* Link para a *lean inception* detalhada no Miro: [Lean Inception no Miro](https://miro.com/app/board/uXjVL9NOoFE=/?share_link_id=749814013207);
+* O diretório (**wireframe-datacontrol**) com as imagens dos *wireframes* do protótipo de interface do aplicativo **DataControl** feitas no [Figma](https://www.figma.com/);
+* O arquivo PDF do *backlog* do produto (**product-backlog-datacontrol.pdf**);
+* O arquivo PDF da primeira *Sprint* (**sprint1-backlog-datacontrol.pdf**);
+* O arquivo PDF das demais *Sprints* (**outras-sprints-backlog-datacontrol.pdf**); 
+* O vídeo de apresentação do projeto do produto, que também pode ser visualizado neste link do [YouTube](https://www.youtube.com/watch?v=fMAX5gx_HSw); e
+* Este arquivo **README.md**
 
 A primeira *Sprint* está programada para iniciar no dia 16 de dezembro de 2024 e a previsão de término das *Sprints* é 28 de fevereiro de 2025.
